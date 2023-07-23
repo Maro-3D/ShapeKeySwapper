@@ -1,5 +1,7 @@
+<div align="center">
+   <h2>ShapeKeySwapper</h2>
+</div>
 
-# ShapeKeySwapper
 <div align="center">
  <p>This is a simple Blender script written in Python that adds a menu entery to the Shape Key Specials dorp down menu.
 <p>When you select a Shape Key by left clicking on it and then press the "Swap Vertices at Shape Key Value" menu entery it swaps the vertex positions of a active shape key in the 0 and 1 value. 
