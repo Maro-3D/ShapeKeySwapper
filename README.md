@@ -1,7 +1,12 @@
 
 # ShapeKeySwapper
 <div align="center">
- <p>Adds a menu entery to the with the Shape Key Specials dorp down menu.
-<p>It swap the vertex positions of a active shape key in the 0 and 1 value position.
+ <p>This is a simple Blender script written in Python that adds a menu entery to the Shape Key Specials dorp down menu.
+<p>When you select a Shape Key by left clicking on it and then press the "Swap Vertices at Shape Key Value" menu entery it swaps the vertex positions of a active shape key in the 0 and 1 value.
+ 
+https://github.com/Maro-3D/ShapeKeySwapper/assets/140236512/cd3d2f0e-ec81-4b0d-b294-804ca68fce2f
+
 </div>
+
+
 
