@@ -27,6 +27,9 @@ bl_info = {
 import bpy
 
 def swap_vertices_at_shape_key_value(self, context):
+   
+    #test
+    
     # Get the active object
     obj = bpy.context.object
 
